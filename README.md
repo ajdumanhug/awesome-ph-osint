@@ -31,6 +31,7 @@ A list of OSINT resources and tools that may be useful to you when conducting in
 | --- | --- | --- | --- |
 | [GCash Send](https://new.gcash.com/services/express-send) | `Mobile Number` | Retrieve Owner Initials of the Mobile Number | [Show Proof](https://github.com/ajdumanhug/awesome-ph-osint/blob/main/proof/GCashSend.jpg) |
 | [eVerify National ID](https://everify.gov.ph/check) | `QR Code` | Retrieve and Verify National ID | [Show Proof](https://github.com/ajdumanhug/awesome-ph-osint/blob/main/proof/everifynatid.png) |
+| [Verify Licensed Professionals](https://verification.prc.gov.ph/) | `Profession`, `First Name`, `Last Name` | Retrieve Full Name and Verify License | [Show Proof](https://github.com/ajdumanhug/awesome-ph-osint/blob/main/proof/PRCVerification.png) |
 
 
 ## 🚗 Cars
