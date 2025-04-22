@@ -33,6 +33,10 @@ A list of OSINT resources and tools that may be useful to you when conducting in
 | [eVerify National ID](https://everify.gov.ph/check) | `QR Code` | Retrieve and Verify National ID | [Show Proof](https://github.com/ajdumanhug/awesome-ph-osint/blob/main/proof/everifynatid.png) |
 | [Verify Licensed Professionals](https://verification.prc.gov.ph/) | `Profession`, `First Name`, `Last Name` | Retrieve Full Name and Verify License | [Show Proof](https://github.com/ajdumanhug/awesome-ph-osint/blob/main/proof/PRCVerification.png) |
 
+#### 🗳️ Voter Precinct
+| Link | Required Field | Description | Proof |
+| --- | --- | --- | --- |
+| [COMELECT Precinct Finder](https://precinctfinder.comelec.gov.ph/voter_precinct) | `Full Name`, `Date of Birth`, `Place of Registration` | Retrieve Pricinct Number and Assigned Polling Place | [Show Proof](https://github.com/ajdumanhug/awesome-ph-osint/blob/main/proof/VoterPrecinct.png) |
 
 ## 🚗 Cars
 #### LTO
